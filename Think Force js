@@ -1,0 +1,3 @@
+<button onclick="check('Newton')">Newton</button>
+<button onclick="check('Joule')">Joule</button>
+<button onclick="check('Watt')">Watt</button>
